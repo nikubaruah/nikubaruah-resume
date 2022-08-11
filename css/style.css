@@ -305,7 +305,7 @@ input[type="checkbox"] {
     width: 20.22%;
     position: fixed;
     bottom: 30px;
-    /* top: 30px; */
+    top: 30px;
     /*    left: 0;*/
     overflow-y: scroll;
     z-index: 1001;
