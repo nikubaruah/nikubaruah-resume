@@ -302,6 +302,8 @@ input[type="checkbox"] {
 
 #lonon-aside {
     padding: 43px 30px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
     width: 20.22%;
     position: fixed;
     bottom: 30px;
